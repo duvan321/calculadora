@@ -1,27 +1,27 @@
-# calculator
+# calculadora
 
 <div id="header" align="center">
 <img src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png" width="200"/>
-<h1 align="center">Hello 👋, Welcome to my app of a calculator with react</h1>
-<h3 align="center">In this project I was able to work directly with react and in JavaScript we were able to use it to give functionality to the calculator, we also used css to shape the calculator application.
+<h1 align="center">Hola 👋, Bienvenido a mi aplicación de calculadora con react</h1>
+<h3 align="center">En este proyecto pude trabajar directamente con reaccionar y en JavaScript pudimos usarlo para darle funcionalidad a la calculadora, también usamos css para darle forma a la aplicación de calculadora.
 </div>
 
-- We have several style folders for the buttons and the app screen
+- Disponemos de varias carpetas de estilos para los botones y la pantalla de la aplicación
 
-- as well as some folders for JavaScript
+- así como algunas carpetas para JavaScript
 
 ---
 
 
 <div align="left">
-<h3>🔨Languages and tools used:</h3>
+<h3>🔨Idiomas y herramientas utilizadas:</h3>
 <div>
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="40" height="40"/>&nbsp;
 
-- 📫 How to contact me
+- 📫 Como contactarme
 *diegoduvan321@gmail.com*
 
-- Visit my site here  https://duvan321.github.io/calculadora/
+- Visita mi sitio aquí https://duvan321.github.io/calculadora/
